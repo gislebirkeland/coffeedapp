@@ -1009,6 +1009,10 @@ section#contact {
     background-color: #d4a432;
 }
 
+.wide-map { 
+    height:400px;
+}
+
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0px;
 }
