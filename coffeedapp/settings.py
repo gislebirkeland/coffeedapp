@@ -88,6 +88,8 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'coffeedapp.wsgi.application'
 
+LOGIN_URL = '/entrance'
+
 
 # Database
 # https://docs.djangoproject.com/en/1.8/ref/settings/#databases
